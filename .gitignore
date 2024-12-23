@@ -88,3 +88,4 @@ target/
 
 #gdrive dir
 .tmp.drivedownload/
+/run_information.json
